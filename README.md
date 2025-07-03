@@ -1,7 +1,7 @@
 
 # Personal-portfolio
 
-**Live Demo**: [Click here to view the website](file:///C:/Users/Ma15j/OneDrive/%D8%B3%D8%B7%D8%AD%20%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8/Task1ofweb/index.html)
+**Live Demo**: [Click here to view the website]( https://majd80saoud.github.io/Personal-portfolio-/)
 
 This is a simple personal webpage built using **HTML** and **CSS**.
 The project showcases a brief introduction about myself, my technical skills, certifications, and interests in front-end design and AI.
